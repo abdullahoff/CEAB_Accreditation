@@ -1,10 +1,4 @@
-/**
-* Author: S. Smith
-* Revised: Mar 9, 2021
-* 
-* Description: Learning Outcome - where the measurements for below
-* marginal, meets and exceeds are recorded
-*/
+
 
 package src;
 

@@ -1,9 +1,3 @@
-/**
-* Author: S. Smith
-* Revised: Mar 7, 2021
-* 
-* Description: ...
-*/
 
 package src;
 

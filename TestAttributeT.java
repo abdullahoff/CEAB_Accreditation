@@ -1,9 +1,4 @@
-/**
-* Author: D. Di Cesare
-* Revised: March 12, 2021
-* 
-* Description: Testing AttributeT
-*/
+
 
 package src;
 

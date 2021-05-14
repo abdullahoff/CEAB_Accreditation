@@ -1,13 +1,4 @@
-/**
- *Author: S. Smith
- *Revised: Mar 9, 2021
- * 
- *Description: A3 Examples.  The purpose of these examples is to
- *exercise the  A3 interface.  If there are syntax errors when
- *compiling this file, or odd output when running it, this is a sign
- *that something has gone wrong with the implementation.  That is, the
- *code doesn't match the expected interface given in the MIS.
- */
+
 
 package src;
 
